@@ -1,0 +1,27 @@
+<LinearLayout>
+    <EditText
+        android:id="@+id/etSheetUrl"
+        android:hint="Google Sheet URL"/>
+    
+    <EditText
+        android:id="@+id/etEmail"
+        android:hint="Notification Email"/>
+    
+    <Button
+        android:id="@+id/btnAuthGmail"
+        android:text="Connect Gmail"/>
+    
+    <TextView
+        android:text="Monitoring Schedule"/>
+    
+    <DatePicker android:id="@+id/startDatePicker"/>
+    <TimePicker android:id="@+id/startTimePicker"/>
+    
+    <Switch
+        android:id="@+id/swSms"
+        android:text="Enable SMS Tracking"/>
+    
+    <Button
+        android:id="@+id/btnSave"
+        android:text="Start Tracking"/>
+</LinearLayout>
