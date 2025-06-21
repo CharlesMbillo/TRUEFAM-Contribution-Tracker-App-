@@ -150,7 +150,7 @@ The output Google Sheet should have the following columns in this order:
 +-----------------------------------------------------+
 | Sender Name:     [ John Doe        ]                |
 | Amount ($):      [ 20.00           ]                |
-| Member ID:       [ 784293           ]               |
+| Member ID:       [ 784293          ]                |
 | Date:            [ 07/25/2025      ]                |
 | Source:          [ SMS             ]                |
 |                                                     |
